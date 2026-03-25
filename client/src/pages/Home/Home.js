@@ -43,7 +43,7 @@ function Home() {
         />
         <Product
         title="Titan Karishma Quartz Analog With Date Blue Dial Two Toned Silver & Rose Gold Stainless Steel Strap Watch for Men - NT1825KM01"
-        price="3511"
+        price="3,511"
         image="https://m.media-amazon.com/images/I/715u6l7tnGL._SX522_.jpg"
         />
         <Product
@@ -99,12 +99,12 @@ function Home() {
         />
         <Product
         title="Henrix 38C 38 Inch Cutaway Basswood Acoustic Guitar With Dual Action Truss Rod, Gigbag, Picks, String Set, String Winder, Strap, Polishing Cloth & Ebook - Natural"
-        price="3299"
+        price="3,299"
         image="https://m.media-amazon.com/images/I/61eJNrkgvOL._SX522_.jpg"
         />
         <Product
         title="Attack on Titan Omnibus 1 (Vol. 1-3)"
-        price="1261"
+        price="1,261"
         image="https://m.media-amazon.com/images/I/81PMKrZD-2L._SY425_.jpg"
         />
       </div>
