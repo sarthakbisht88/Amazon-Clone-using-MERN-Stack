@@ -1,7 +1,9 @@
 import "./Product.css";
+import {Link} from "react-router-dom"; 
 
-function Product({title, price, image}) {
+function Product({id,title, price, image}) {
     return (
+        <Link to={`/product/${id}`}>
         <div className="Product">
             <img src={image} alt={title} />
             <div className="ProductInfo"> 
@@ -10,6 +12,7 @@ function Product({title, price, image}) {
             </div>
             <button> Add to Cart </button>
         </div>
+        </Link>
     );
 }
 
